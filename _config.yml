@@ -6,9 +6,9 @@ color:
   saturation: 0.9538268453907222
   rhythmicContrast: 0.2788003815803677
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Striving
