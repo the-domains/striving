@@ -1,4 +1,3 @@
-layout_spectrum: 0.5109260762110353
 typography_spectrum: 0.0063957166858017445
 color:
   brandStrength: 0.41416734736412764
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.5109260762110353
 name: Striving
+title: Striving
