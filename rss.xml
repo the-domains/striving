@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Striving]]></title>
+        <description><![CDATA[Striving]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 09:31:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BioRing]]></title>
+            <description><![CDATA[<article><h1>BioRing</h1><p>BioRing is perfect for anyone who wants to:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c14e465-4805-411c-a73a-246198cea302.jpg"></article>]]></description>
+            <link>https://igg.me/at/bioring/x/2034284</link>
+            <guid isPermaLink="false">3dd25c87-a9da-441f-9943-01bae658b85f</guid>
+            <pubDate>Fri, 19 Aug 2016 09:31:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
