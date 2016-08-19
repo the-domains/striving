@@ -1,4 +1,3 @@
-layout_spectrum: 0.11835335334762931
 typography_spectrum: 0.928116399096325
 color:
   brandStrength: 0.9744673268869519
@@ -14,8 +13,9 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d5373-cd6d-4c82-a81f-526dd30235ad.png
+layout_spectrum: 0.11835335334762931
 name: Striving
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/987aded7-b82d-4f7c-ab0d-18b2b4c74a2f.png
-title: Striving
+title: STRIVING
 description: Better life and stronger performance
