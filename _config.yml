@@ -1,19 +1,19 @@
-typography_spectrum: 0.0063957166858017445
+layout_spectrum: 0.11835335334762931
+typography_spectrum: 0.9165673127863556
 color:
-  brandStrength: 0.41416734736412764
-  lightness: 0.1993304213974625
-  saturation: 0.9538268453907222
-  rhythmicContrast: 0.2788003815803677
+  brandStrength: 0.6984498489182442
+  lightness: 0.1353035205975175
+  saturation: 0.6454315783921629
+  rhythmicContrast: 0.167497499845922
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d5373-cd6d-4c82-a81f-526dd30235ad.png
-layout_spectrum: 0.5109260762110353
 name: Striving
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/987aded7-b82d-4f7c-ab0d-18b2b4c74a2f.png
