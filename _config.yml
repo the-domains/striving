@@ -19,6 +19,9 @@ navigation:
   - name: BioRing
     id: 5ff2d72d-2f3b-479c-a524-f8e53104465a
     type: content
+  - name: THE M
+    id: 7526d335-50bc-431c-9229-8a73afd0f67e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/987aded7-b82d-4f7c-ab0d-18b2b4c74a2f.png
 title: STRIVING
