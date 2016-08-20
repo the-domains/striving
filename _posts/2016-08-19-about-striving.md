@@ -1,13 +1,13 @@
 ---
-description: About STRIVING
-dateModified: '2016-08-19T22:28:30.377Z'
-datePublished: '2016-08-19T22:28:40.041Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-19T22:33:10.328Z'
 sourcePath: _posts/2016-08-19-about-striving.md
+author: []
+via: {}
+dateModified: '2016-08-19T22:33:09.650Z'
+title: ''
+publisher: {}
+description: About STRIVING
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -15,3 +15,5 @@ _type: MediaObject
 
 ---
 About STRIVING
+
+Promoting cool services and products!
