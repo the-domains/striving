@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T22:33:10.328Z'
+datePublished: '2016-08-19T22:33:46.140Z'
 sourcePath: _posts/2016-08-19-about-striving.md
 author: []
 via: {}
-dateModified: '2016-08-19T22:33:09.650Z'
+dateModified: '2016-08-19T22:33:45.461Z'
 title: ''
 publisher: {}
 description: About STRIVING
@@ -16,4 +16,4 @@ _type: MediaObject
 ---
 About STRIVING
 
-Promoting cool services and products!
+Promoting cool services and products that supports a b_etter life and stronger performance._
