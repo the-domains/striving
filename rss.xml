@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[STRIVING]]></title>
+        <description><![CDATA[STRIVING]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 06:37:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE M]]></title>
+            <description><![CDATA[<article><h1>THE M</h1><p>THE M comes in full leather on both sides or with leather on one side and textile on the other. These versions can be turned according to your mood. THE M also comes in versions that are not meant to be turned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e77f18dcc829b665d1a9d1a346d0cfe3/noop.jpg?input=http%3A%2F%2Fbythornam.com%2Fwp-content%2Fuploads%2F2016%2F06%2FByThornam_07_cropped_web.jpg"></article>]]></description>
+            <link>http://bythornam.com/product/the-m-brown-aniline-leather/</link>
+            <guid isPermaLink="false">3762c39e-6323-4f3a-870c-0752949aa5c5</guid>
+            <pubDate>Sat, 20 Aug 2016 06:37:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
