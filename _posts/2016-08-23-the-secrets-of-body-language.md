@@ -1,26 +1,28 @@
 ---
+datePublished: '2016-08-23T09:31:18.692Z'
+sourcePath: _posts/2016-08-23-the-secrets-of-body-language.md
+author: []
+via: {}
+dateModified: '2016-08-23T09:30:36.687Z'
+title: The Secrets of Body Language
+publisher: {}
 description: >-
   Learn how to interpret the body language of the people around you while
   perfecting your own nonverbal communication.
-dateModified: '2016-08-23T09:26:54.791Z'
-datePublished: '2016-08-23T09:27:26.092Z'
-title: The Secrets of Body Language
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-23-the-secrets-of-body-language.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b0d651-047a-4d02-ad60-eeb5b8c92cd1.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61ff09c27ab7cf4adf83a70e883216ea/croprotate.jpg?cropheight=540&cropwidth=890&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F07b0d651-047a-4d02-ad60-eeb5b8c92cd1.jpg&x=38&y=0)
 
 # The Secrets of Body Language
 
 Learn how to interpret the body language of the people around you while perfecting your own nonverbal communication.
+
+[More information][0]
 
 **Course Description**
 
@@ -46,16 +48,20 @@ If you wish you could begin to unravel the mysteries of body language, then enro
 
 For more articles and to find out more about the author, Vanessa Van Edwards visit: ScienceofPeople.org
 
-What People Are Saying About Vanessa's Courses:
+**What People Are Saying About Vanessa's Courses:**
 
-"Vanessa's presentation style is so engaging and entertaining that I believe everyone in any job function will get something extremely useful out of it. "
+_"Vanessa's presentation style is so engaging and entertaining that I believe everyone in any job function will get something extremely useful out of it. "_
 
 --Monica Enand, Founder of Zapproved
 
-"Vanessa is a dynamic and polished speaker. We would definitely ask her back for more presentations."
+_"Vanessa is a dynamic and polished speaker. We would definitely ask her back for more presentations."_
 
 --Emily Ediger, Portland State University Business Accelerator
 
-"Vanessa Van Edwards' speech to our club of hundreds was a welcome break from the standard speech. It was always engaging, at times uproariously funny and very informative. As I looked at the audience, everyone was leaning forward and feeling each moment together. We all came away feeling more light-hearted and armed with insights about human behavior that we didn't know at the beginning. It was a treat to hear her speak!"
+_"Vanessa Van Edwards' speech to our club of hundreds was a welcome break from the standard speech. It was always engaging, at times uproariously funny and very informative. As I looked at the audience, everyone was leaning forward and feeling each moment together. We all came away feeling more light-hearted and armed with insights about human behavior that we didn't know at the beginning. It was a treat to hear her speak!"_
 
 --Mike Pendergast, Business Development Consultant and Rotarian
+
+[More information][0]
+
+[0]: http://click.linksynergy.com/link?id=LucNJCjQp0Q&offerid=323058.38266&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-secrets-of-body-language-webinar%2F
