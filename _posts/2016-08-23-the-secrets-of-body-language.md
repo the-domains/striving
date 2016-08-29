@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T09:31:18.692Z'
+datePublished: '2016-08-27T20:01:05.745Z'
 sourcePath: _posts/2016-08-23-the-secrets-of-body-language.md
 author: []
 via: {}
-dateModified: '2016-08-23T09:30:36.687Z'
+dateModified: '2016-08-27T20:01:05.005Z'
 title: The Secrets of Body Language
 publisher: {}
 description: >-
@@ -16,8 +16,6 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61ff09c27ab7cf4adf83a70e883216ea/croprotate.jpg?cropheight=540&cropwidth=890&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F07b0d651-047a-4d02-ad60-eeb5b8c92cd1.jpg&x=38&y=0)
-
 # The Secrets of Body Language
 
 Learn how to interpret the body language of the people around you while perfecting your own nonverbal communication.
